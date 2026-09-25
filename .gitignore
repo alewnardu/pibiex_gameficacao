@@ -1,0 +1,26 @@
+# GameMaker
+# (regras do template oficial do GameMaker)
+
+# Node.js
+node_modules/
+npm-debug.log*
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
